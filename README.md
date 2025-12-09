@@ -118,23 +118,5 @@ POST /flights/1/register
 }
 
 
-⸻
 
-🧱 ساختار دیتابیس
-	•	جدول پروازها: flights
-	•	جدول لاگ‌ها: flight_logs
-	•	فعال بودن Foreign Key
 
-⸻
-
-🧑‍💻 توسعه‌دهنده
-
-نام شما
-Full-stack Developer
-GitHub: https://github.com/YOUR_USERNAME
-
-⸻
-
-📄 لایسنس
-
-MI
