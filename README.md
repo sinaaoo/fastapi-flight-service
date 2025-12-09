@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flights FastAPI (raw SQL, layered)
 
 این پروژه یک مثال از پیاده‌سازی سرویس مدیریت پروازها با FastAPI است که:
@@ -18,3 +19,6 @@
 python -m venv .venv
 source .venv/bin/activate   # یا Windows: .venv\Scripts\activate
 pip install fastapi uvicorn pytest
+=======
+# fastapi-flight-service
+>>>>>>> 1d893b749fc48064ea4b423c160d52eb5e8b09af
