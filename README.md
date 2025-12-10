@@ -70,11 +70,11 @@ python -c “from app.db import init_db; init_db()”
 
 ### 4. اجرای سرویس
 
-uvicorn app.main:app –reload
+uvicorn app.main:app --reload
 
 API در این آدرس بالا می‌آید:
 
-http://127.0.0.1:8000
+http://127.0.0.1:8000/flights
 
 Swagger UI:
 
